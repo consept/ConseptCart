@@ -1,2 +1,2 @@
-ConseptCart
+ConseptCart Community Edition
 ===========
